@@ -1,0 +1,23 @@
+{
+  "name": "wishlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavelCreator/node-wishlist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavelCreator/node-wishlist/issues"
+  },
+  "homepage": "https://github.com/PavelCreator/node-wishlist#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
